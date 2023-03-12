@@ -1,5 +1,4 @@
 
-smooth scroll
 $(document).ready(function(){
 	$(".nav-link").on('click', function(event) {
 
@@ -17,7 +16,7 @@ $(document).ready(function(){
       	} 
     });
 });
-read more
+
 const readMoreBtn = document.querySelector(".read-more-btn");
 const hiddenContent = document.querySelector(".hidden-content");
 readMoreBtn.addEventListener("click", function() {
