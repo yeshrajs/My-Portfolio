@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 // smooth scroll
 $(document).ready(function(){
 	$(".nav-link").on('click', function(event) {
@@ -18,6 +19,8 @@ $(document).ready(function(){
     });
 });
 // read more
+=======
+>>>>>>> 07f6712185ece800d81b4a961f302de2b1e505bc
 const readMoreBtn = document.querySelector(".read-more-btn");
 const hiddenContent = document.querySelector(".hidden-content");
 readMoreBtn.addEventListener("click", function() {
