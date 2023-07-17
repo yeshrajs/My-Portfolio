@@ -14,17 +14,3 @@
     height: 200px;
 }
 /* blog */
-.blog{
-   margin:5rem  5% 0 5%;
-}
-.blog-head{
-    text-align:center;
-}
-.blog-content{
-    margin:5rem  5% 0 5%;
-    display:flex;
-    justify-content:space-between;
-}
-.blog-hide{
- display: none;
-}
